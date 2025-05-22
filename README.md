@@ -21,10 +21,6 @@ Insights and recommendations are provided in the following key areas:
 - **Geographic Distribution**
 - **Reporting Behavior**
 
-🔗 SQL cleaning queries: *N/A – CSV dataset cleaned using Pandas in Python*  
-🔗 Targeted business questions: *See insights below*  
-🔗 Dashboard (planned): *N/A
-
 ---
 
 ## 🧾 Data Structure & Initial Checks
