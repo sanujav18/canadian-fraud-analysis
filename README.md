@@ -78,7 +78,7 @@ The raw data was extracted from a structured CSV file from CAFC's Open Governmen
 - Ontario, BC, and Alberta lead in both volume and total losses.
 - Alberta shows higher **average** loss per complaint.
 
-![Loss by Province](visuals/map_dollar_loss_by_province.png)
+![Loss by Province](visuals/chart_loss_by_province.png)
 
 ---
 
