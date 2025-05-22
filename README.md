@@ -23,7 +23,7 @@ Insights and recommendations are provided in the following key areas:
 
 🔗 SQL cleaning queries: *N/A – CSV dataset cleaned using Pandas in Python*  
 🔗 Targeted business questions: *See insights below*  
-🔗 Dashboard (planned): [Insert Tableau Public link if available]
+🔗 Dashboard (planned): *N/A
 
 ---
 
