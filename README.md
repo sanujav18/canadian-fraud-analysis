@@ -52,8 +52,6 @@ The raw data was extracted from a structured CSV file from CAFC's Open Governmen
 2. **Phone remains the dominant solicitation method**, though online methods (email, web, social media) have steadily increased.
 3. **Ontario and British Columbia report the highest fraud volumes**, but Alberta has the highest average loss per case.
 
-![Fraud Loss Graph](visuals/chart_total_loss_by_fraud_type.png)
-
 ---
 
 ## 🔎 Insights Deep Dive
