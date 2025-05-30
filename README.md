@@ -35,8 +35,8 @@ The raw data was extracted from a structured CSV file from CAFC's Open Governmen
 - `Number of Victims`
 - `Dollar Loss (CAD)`
 
-📊 Total Rows: ~147,000  
-📍 Geographical Scope: All Canadian provinces + unknown  
+📊 Total Rows: 328,649
+📍 Geographical Scope: All Canadian provinces 
 📅 Temporal Range: Jan 2021 – Mar 2025
 
 ---
